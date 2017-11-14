@@ -1,14 +1,14 @@
 h1 {
-    color: pink;
+    color: #A55D35;
  }
 
 h2 {
-    color: red;
+    color: #A55D35;
 }
 
 body {
     overflow: hidden;
-    background: #000000;
+    background: #E6E7E8;
 }
 
 #Header_Name {
@@ -16,7 +16,7 @@ body {
 }
 
 #Header_Projects {
-    
+
 }
 
 .Project {
