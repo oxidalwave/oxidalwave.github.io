@@ -6,6 +6,10 @@ h2 {
     color: #A55D35;
 }
 
+h3 {
+
+}
+
 body {
     overflow: hidden;
     background: #E6E7E8;
@@ -19,6 +23,14 @@ body {
 
 }
 
-.Project {
+.Project_Title {
 
+}
+
+.Project_Description {
+
+}
+
+.Project_Language {
+    
 }
